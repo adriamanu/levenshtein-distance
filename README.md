@@ -1,5 +1,7 @@
 # levenshtein-distance
 ## Levenshtein distance implementation in golang
+[![Actions Status](https://github.com/adriamanu/levenshtein-distance/actions/workflows/test.yml/badge.svg)](https://github.com/adriamanu/levenshtein-distance/actions)
+[![codecov](https://codecov.io/gh/adriamanu/levenshtein-distance/master/graph/badge.svg)](https://codecov.io/gh/adriamanu/levenshtein-distance)
 
 https://en.wikipedia.org/wiki/Levenshtein_distance
 
